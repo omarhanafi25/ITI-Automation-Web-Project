@@ -75,7 +75,7 @@ Right-click on the class `EndToEndScenarios` in your test/regression package and
 After the test run, navigate to:
 
 ```
-E-Space\reports
+OrangeHRM\reports
 ```
 
 Open the `.html` file in any browser to see a detailed test report .
